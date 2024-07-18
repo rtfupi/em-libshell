@@ -1,1 +1,1 @@
-# Shell script
+Library of various shell (bash) functions.
